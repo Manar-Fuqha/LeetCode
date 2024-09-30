@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manar-Fuqha/LeetCode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/Manar-Fuqha/LeetCode/tree/master/0066-plus-one) |
 | [0414-third-maximum-number](https://github.com/Manar-Fuqha/LeetCode/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/Manar-Fuqha/LeetCode/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Manar-Fuqha/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Manar-Fuqha/LeetCode/tree/master/0724-find-pivot-index) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Manar-Fuqha/LeetCode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
