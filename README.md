@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Manar-Fuqha/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0620-not-boring-movies](https://github.com/Manar-Fuqha/LeetCode/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/Manar-Fuqha/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Manar-Fuqha/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 ## Recursion
