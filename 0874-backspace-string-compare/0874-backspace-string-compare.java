@@ -1,11 +1,6 @@
 class Solution {
     public boolean backspaceCompare(String s, String t) {
-        s=remove(s);
-        t=remove(t);
-        if(s.equals(t)){
-            return true;
-        }
-        return false;
+        return remove(s).equals(remove(t));
     }
     public String remove(String s ){
          Stack<Character> stack = new Stack<>();
