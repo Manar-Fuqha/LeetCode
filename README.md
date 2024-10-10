@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Manar-Fuqha/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0874-backspace-string-compare](https://github.com/Manar-Fuqha/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/Manar-Fuqha/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Manar-Fuqha/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 ## Sorting
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Manar-Fuqha/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Manar-Fuqha/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0874-backspace-string-compare](https://github.com/Manar-Fuqha/LeetCode/tree/master/0874-backspace-string-compare) |
 | [3447-clear-digits](https://github.com/Manar-Fuqha/LeetCode/tree/master/3447-clear-digits) |
 ## Binary Search
 |  |
@@ -154,10 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/Manar-Fuqha/LeetCode/tree/master/0874-backspace-string-compare) |
 | [3447-clear-digits](https://github.com/Manar-Fuqha/LeetCode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/Manar-Fuqha/LeetCode/tree/master/0874-backspace-string-compare) |
 | [3447-clear-digits](https://github.com/Manar-Fuqha/LeetCode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
