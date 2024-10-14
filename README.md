@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Manar-Fuqha/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Manar-Fuqha/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Manar-Fuqha/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Manar-Fuqha/LeetCode/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manar-Fuqha/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Manar-Fuqha/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2427-first-letter-to-appear-twice](https://github.com/Manar-Fuqha/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Manar-Fuqha/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Manar-Fuqha/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Manar-Fuqha/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Manar-Fuqha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Manar-Fuqha/LeetCode/tree/master/0443-string-compression) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Manar-Fuqha/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Manar-Fuqha/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Manar-Fuqha/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Manar-Fuqha/LeetCode/tree/master/0258-add-digits) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Manar-Fuqha/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 ## Tree
