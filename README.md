@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Manar-Fuqha/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Manar-Fuqha/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Manar-Fuqha/LeetCode/tree/master/0258-add-digits) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Manar-Fuqha/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 ## Tree
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Manar-Fuqha/LeetCode/tree/master/0258-add-digits) |
 | [0874-backspace-string-compare](https://github.com/Manar-Fuqha/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Manar-Fuqha/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/Manar-Fuqha/LeetCode/tree/master/3447-clear-digits) |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manar-Fuqha/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Manar-Fuqha/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
