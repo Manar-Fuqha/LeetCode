@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Manar-Fuqha/LeetCode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/Manar-Fuqha/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Manar-Fuqha/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Manar-Fuqha/LeetCode/tree/master/0202-happy-number) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Manar-Fuqha/LeetCode/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/Manar-Fuqha/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Manar-Fuqha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Manar-Fuqha/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
