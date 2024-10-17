@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Manar-Fuqha/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Manar-Fuqha/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [2128-reverse-prefix-of-word](https://github.com/Manar-Fuqha/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2481-strictly-palindromic-number](https://github.com/Manar-Fuqha/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Manar-Fuqha/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Manar-Fuqha/LeetCode/tree/master/0258-add-digits) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Manar-Fuqha/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
+| [2481-strictly-palindromic-number](https://github.com/Manar-Fuqha/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Tree
 |  |
 | ------- |
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/0148-sort-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Manar-Fuqha/LeetCode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
