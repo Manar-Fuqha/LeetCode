@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Manar-Fuqha/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Manar-Fuqha/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [0983-validate-stack-sequences](https://github.com/Manar-Fuqha/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/Manar-Fuqha/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Manar-Fuqha/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2058-concatenation-of-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Manar-Fuqha/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/Manar-Fuqha/LeetCode/tree/master/0874-backspace-string-compare) |
+| [0983-validate-stack-sequences](https://github.com/Manar-Fuqha/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/Manar-Fuqha/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1666-make-the-string-great](https://github.com/Manar-Fuqha/LeetCode/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/Manar-Fuqha/LeetCode/tree/master/2128-reverse-prefix-of-word) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Manar-Fuqha/LeetCode/tree/master/0258-add-digits) |
 | [0874-backspace-string-compare](https://github.com/Manar-Fuqha/LeetCode/tree/master/0874-backspace-string-compare) |
+| [0983-validate-stack-sequences](https://github.com/Manar-Fuqha/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [2058-concatenation-of-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Manar-Fuqha/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Manar-Fuqha/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
