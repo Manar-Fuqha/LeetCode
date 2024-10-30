@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/Manar-Fuqha/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/Manar-Fuqha/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Manar-Fuqha/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1657-find-the-winner-of-an-array-game](https://github.com/Manar-Fuqha/LeetCode/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2058-concatenation-of-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Manar-Fuqha/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Manar-Fuqha/LeetCode/tree/master/0258-add-digits) |
 | [0874-backspace-string-compare](https://github.com/Manar-Fuqha/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/Manar-Fuqha/LeetCode/tree/master/0983-validate-stack-sequences) |
+| [1657-find-the-winner-of-an-array-game](https://github.com/Manar-Fuqha/LeetCode/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2058-concatenation-of-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Manar-Fuqha/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Manar-Fuqha/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
