@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/Manar-Fuqha/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/Manar-Fuqha/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Manar-Fuqha/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Manar-Fuqha/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Manar-Fuqha/LeetCode/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2058-concatenation-of-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Manar-Fuqha/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/Manar-Fuqha/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/Manar-Fuqha/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Manar-Fuqha/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1666-make-the-string-great](https://github.com/Manar-Fuqha/LeetCode/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/Manar-Fuqha/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Manar-Fuqha/LeetCode/tree/master/0258-add-digits) |
 | [0874-backspace-string-compare](https://github.com/Manar-Fuqha/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/Manar-Fuqha/LeetCode/tree/master/0983-validate-stack-sequences) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Manar-Fuqha/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Manar-Fuqha/LeetCode/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2058-concatenation-of-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Manar-Fuqha/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
