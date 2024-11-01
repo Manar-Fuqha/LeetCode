@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Manar-Fuqha/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Manar-Fuqha/LeetCode/tree/master/0443-string-compression) |
 | [0874-backspace-string-compare](https://github.com/Manar-Fuqha/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Manar-Fuqha/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1666-make-the-string-great](https://github.com/Manar-Fuqha/LeetCode/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/Manar-Fuqha/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2427-first-letter-to-appear-twice](https://github.com/Manar-Fuqha/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
