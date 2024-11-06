@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Manar-Fuqha/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Manar-Fuqha/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Manar-Fuqha/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Manar-Fuqha/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Manar-Fuqha/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Manar-Fuqha/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Manar-Fuqha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Manar-Fuqha/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Manar-Fuqha/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Linked List
 |  |
 | ------- |
