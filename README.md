@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Manar-Fuqha/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Manar-Fuqha/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Manar-Fuqha/LeetCode/tree/master/1657-find-the-winner-of-an-array-game) |
+| [1940-maximum-xor-for-each-query](https://github.com/Manar-Fuqha/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2058-concatenation-of-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Manar-Fuqha/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Manar-Fuqha/LeetCode/tree/master/0724-find-pivot-index) |
+| [1940-maximum-xor-for-each-query](https://github.com/Manar-Fuqha/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 ## Math
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Manar-Fuqha/LeetCode/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/Manar-Fuqha/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Manar-Fuqha/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1940-maximum-xor-for-each-query](https://github.com/Manar-Fuqha/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Manar-Fuqha/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/Manar-Fuqha/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Manar-Fuqha/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
