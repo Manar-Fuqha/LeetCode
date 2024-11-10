@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/Manar-Fuqha/LeetCode/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Manar-Fuqha/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0835-linked-list-components](https://github.com/Manar-Fuqha/LeetCode/tree/master/0835-linked-list-components) |
 | [0941-sort-array-by-parity](https://github.com/Manar-Fuqha/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Manar-Fuqha/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Manar-Fuqha/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manar-Fuqha/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Manar-Fuqha/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0835-linked-list-components](https://github.com/Manar-Fuqha/LeetCode/tree/master/0835-linked-list-components) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Manar-Fuqha/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/Manar-Fuqha/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Manar-Fuqha/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0835-linked-list-components](https://github.com/Manar-Fuqha/LeetCode/tree/master/0835-linked-list-components) |
 | [0838-design-linked-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/0838-design-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Manar-Fuqha/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
