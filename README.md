@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Manar-Fuqha/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Manar-Fuqha/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2481-strictly-palindromic-number](https://github.com/Manar-Fuqha/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2507-number-of-common-factors](https://github.com/Manar-Fuqha/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Tree
 |  |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Manar-Fuqha/LeetCode/tree/master/0258-add-digits) |
+| [2507-number-of-common-factors](https://github.com/Manar-Fuqha/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Divide and Conquer
 |  |
@@ -399,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Manar-Fuqha/LeetCode/tree/master/0812-rotate-string) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Manar-Fuqha/LeetCode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
