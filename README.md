@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Manar-Fuqha/LeetCode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/Manar-Fuqha/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Manar-Fuqha/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Manar-Fuqha/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Manar-Fuqha/LeetCode/tree/master/0066-plus-one) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Manar-Fuqha/LeetCode/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/Manar-Fuqha/LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Manar-Fuqha/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Interactive
