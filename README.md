@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Manar-Fuqha/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Manar-Fuqha/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [2128-reverse-prefix-of-word](https://github.com/Manar-Fuqha/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/Manar-Fuqha/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Sorting
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/Manar-Fuqha/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1666-make-the-string-great](https://github.com/Manar-Fuqha/LeetCode/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/Manar-Fuqha/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Manar-Fuqha/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/Manar-Fuqha/LeetCode/tree/master/3447-clear-digits) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0835-linked-list-components](https://github.com/Manar-Fuqha/LeetCode/tree/master/0835-linked-list-components) |
 | [0838-design-linked-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/0838-design-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Manar-Fuqha/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
