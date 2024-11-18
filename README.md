@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Manar-Fuqha/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Manar-Fuqha/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Manar-Fuqha/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Manar-Fuqha/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Manar-Fuqha/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Manar-Fuqha/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Manar-Fuqha/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Manar-Fuqha/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Manar-Fuqha/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Manar-Fuqha/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Manar-Fuqha/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Manar-Fuqha/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -432,5 +435,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
