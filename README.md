@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Manar-Fuqha/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Manar-Fuqha/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Manar-Fuqha/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Manar-Fuqha/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Manar-Fuqha/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Manar-Fuqha/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -426,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/Manar-Fuqha/LeetCode/tree/master/2507-number-of-common-factors) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
