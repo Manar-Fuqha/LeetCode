@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Manar-Fuqha/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Manar-Fuqha/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Manar-Fuqha/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3194-find-words-containing-character](https://github.com/Manar-Fuqha/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Manar-Fuqha/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/Manar-Fuqha/LeetCode/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Manar-Fuqha/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Manar-Fuqha/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3194-find-words-containing-character](https://github.com/Manar-Fuqha/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Manar-Fuqha/LeetCode/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/Manar-Fuqha/LeetCode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Manar-Fuqha/LeetCode/tree/master/3451-string-compression-iii) |
