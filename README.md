@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Manar-Fuqha/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Manar-Fuqha/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0835-linked-list-components](https://github.com/Manar-Fuqha/LeetCode/tree/master/0835-linked-list-components) |
+| [0860-design-circular-queue](https://github.com/Manar-Fuqha/LeetCode/tree/master/0860-design-circular-queue) |
 | [0941-sort-array-by-parity](https://github.com/Manar-Fuqha/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Manar-Fuqha/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Manar-Fuqha/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0835-linked-list-components](https://github.com/Manar-Fuqha/LeetCode/tree/master/0835-linked-list-components) |
 | [0838-design-linked-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/0838-design-linked-list) |
+| [0860-design-circular-queue](https://github.com/Manar-Fuqha/LeetCode/tree/master/0860-design-circular-queue) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Manar-Fuqha/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Manar-Fuqha/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Manar-Fuqha/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0838-design-linked-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/0838-design-linked-list) |
+| [0860-design-circular-queue](https://github.com/Manar-Fuqha/LeetCode/tree/master/0860-design-circular-queue) |
 ## Database
 |  |
 | ------- |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Manar-Fuqha/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Manar-Fuqha/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manar-Fuqha/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0860-design-circular-queue](https://github.com/Manar-Fuqha/LeetCode/tree/master/0860-design-circular-queue) |
 ## Counting
 |  |
 | ------- |
