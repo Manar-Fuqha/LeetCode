@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Manar-Fuqha/LeetCode/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Manar-Fuqha/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Manar-Fuqha/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0792-binary-search](https://github.com/Manar-Fuqha/LeetCode/tree/master/0792-binary-search) |
 | [0835-linked-list-components](https://github.com/Manar-Fuqha/LeetCode/tree/master/0835-linked-list-components) |
 | [0860-design-circular-queue](https://github.com/Manar-Fuqha/LeetCode/tree/master/0860-design-circular-queue) |
 | [0941-sort-array-by-parity](https://github.com/Manar-Fuqha/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Manar-Fuqha/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Manar-Fuqha/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/Manar-Fuqha/LeetCode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Manar-Fuqha/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Manar-Fuqha/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Bit Manipulation
