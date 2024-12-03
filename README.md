@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-find-the-winner-of-an-array-game](https://github.com/Manar-Fuqha/LeetCode/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1940-maximum-xor-for-each-query](https://github.com/Manar-Fuqha/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2058-concatenation-of-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/Manar-Fuqha/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Manar-Fuqha/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Manar-Fuqha/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Manar-Fuqha/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Manar-Fuqha/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2128-reverse-prefix-of-word](https://github.com/Manar-Fuqha/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2232-adding-spaces-to-a-string](https://github.com/Manar-Fuqha/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Manar-Fuqha/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2481-strictly-palindromic-number](https://github.com/Manar-Fuqha/LeetCode/tree/master/2481-strictly-palindromic-number) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Manar-Fuqha/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1666-make-the-string-great](https://github.com/Manar-Fuqha/LeetCode/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/Manar-Fuqha/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2232-adding-spaces-to-a-string](https://github.com/Manar-Fuqha/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Manar-Fuqha/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2487-optimal-partition-of-string](https://github.com/Manar-Fuqha/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2580-circular-sentence](https://github.com/Manar-Fuqha/LeetCode/tree/master/2580-circular-sentence) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/Manar-Fuqha/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Manar-Fuqha/LeetCode/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2058-concatenation-of-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/Manar-Fuqha/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Manar-Fuqha/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Manar-Fuqha/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Manar-Fuqha/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
