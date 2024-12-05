@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Manar-Fuqha/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Manar-Fuqha/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Manar-Fuqha/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Manar-Fuqha/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Doubly-Linked List
 |  |
