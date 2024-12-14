@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Manar-Fuqha/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Manar-Fuqha/LeetCode/tree/master/0258-add-digits) |
+| [0382-linked-list-random-node](https://github.com/Manar-Fuqha/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/Manar-Fuqha/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Manar-Fuqha/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Manar-Fuqha/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Manar-Fuqha/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0382-linked-list-random-node](https://github.com/Manar-Fuqha/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/Manar-Fuqha/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0835-linked-list-components](https://github.com/Manar-Fuqha/LeetCode/tree/master/0835-linked-list-components) |
 | [0838-design-linked-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/0838-design-linked-list) |
@@ -525,4 +527,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Manar-Fuqha/LeetCode/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Manar-Fuqha/LeetCode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
