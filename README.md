@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Manar-Fuqha/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Manar-Fuqha/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Manar-Fuqha/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Manar-Fuqha/LeetCode/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manar-Fuqha/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manar-Fuqha/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Manar-Fuqha/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Manar-Fuqha/LeetCode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Manar-Fuqha/LeetCode/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Manar-Fuqha/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Manar-Fuqha/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/Manar-Fuqha/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Manar-Fuqha/LeetCode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Manar-Fuqha/LeetCode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Manar-Fuqha/LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Manar-Fuqha/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Interactive
