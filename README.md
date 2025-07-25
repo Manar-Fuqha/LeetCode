@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Manar-Fuqha/LeetCode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Manar-Fuqha/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Manar-Fuqha/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Manar-Fuqha/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Manar-Fuqha/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Manar-Fuqha/LeetCode/tree/master/0055-jump-game) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Manar-Fuqha/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Manar-Fuqha/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Manar-Fuqha/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Manar-Fuqha/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manar-Fuqha/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Manar-Fuqha/LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Manar-Fuqha/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Manar-Fuqha/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Manar-Fuqha/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Manar-Fuqha/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1002-maximum-width-ramp](https://github.com/Manar-Fuqha/LeetCode/tree/master/1002-maximum-width-ramp) |
@@ -558,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Manar-Fuqha/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Manar-Fuqha/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manar-Fuqha/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## String Matching
